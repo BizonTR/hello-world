@@ -1,3 +1,3 @@
 # hello-world
 repository_trying
-Hi, I'm doing Github guide now. Sorry for that empty repository.
+Hi, I'm following Github guide now. Sorry for that empty repository.
